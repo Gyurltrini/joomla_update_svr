@@ -5,7 +5,7 @@
     client="site"
     method="upgrade">
     <name>MOD_UPDATESERVER</name>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <creationDate>21-07-2020</creationDate>
 
     <author>Kathryn Anderson</author>
