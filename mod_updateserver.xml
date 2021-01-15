@@ -78,7 +78,7 @@
             type="extension"
             priority="2"
             name="Update Server Example">
-            https://raw.githubusercontent.com/Gyurltrini/joomla-update-svr/master/updates.xml
+            https://raw.githubusercontent.com/Gyurltrini/joomla_update_svr/master/updates.xml
         </server>
 	</updateservers>
 </extension>
